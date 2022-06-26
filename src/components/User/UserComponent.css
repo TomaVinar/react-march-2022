@@ -1,0 +1,9 @@
+button {
+    width: 120px;
+    height: 35px;
+    border-radius: 24px;
+    border: none;
+    background: rebeccapurple;
+    color: white;
+    font-weight: bold;
+}
