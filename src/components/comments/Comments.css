@@ -1,0 +1,11 @@
+.comments_container {
+    display: inline-flex;
+    width: 98%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    column-gap: 40px;
+    row-gap: 40px;
+    background: honeydew;
+    justify-content: center;
+    padding-top: 80px;
+}

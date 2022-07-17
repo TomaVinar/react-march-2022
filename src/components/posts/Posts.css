@@ -1,0 +1,12 @@
+.posts_container {
+    display: inline-flex;
+    width: 98%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    column-gap: 40px;
+    row-gap: 40px;
+    background: aliceblue;
+   justify-content: center;
+    margin-bottom: 100px;
+}
+
